@@ -15,4 +15,10 @@ npm install
 npm start
 ```
 
-Last but not least open [index.html](index.html) in a browser.
+In another console run this:
+
+```bash
+python -m SimpleHTTPServer
+```
+
+Now open a web browser to [http://localhost:8000](http://localhost:8000).
